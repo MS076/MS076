@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muskaan
 - 👀 I’m interested in learning and exploring
-- 🌱 I’m currently learning Python and DSA
+- 🌱 I’m currently learning..
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
